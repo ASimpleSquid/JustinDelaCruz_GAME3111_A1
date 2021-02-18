@@ -1,0 +1,2 @@
+C:\Users\sonic\source\repos\101127646 - Lab Assignment 1\x64\Debug\101127646 - Lab Assignment 1.exe
+C:\Users\sonic\source\repos\101127646 - Lab Assignment 1\x64\Debug\101127646 - Lab Assignment 1.pdb
